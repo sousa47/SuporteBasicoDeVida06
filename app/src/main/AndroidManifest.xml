@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.david.suportebasicodevida06" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InicioSBV"
+            android:label="@string/title_activity_inicio_sbv" >
+        </activity>
+        <activity
+            android:name=".InfoListView"
+            android:label="@string/title_activity_activity_listview" >
+        </activity>
+        <activity
+            android:name=".SBVFase1"
+            android:label="@string/title_activity_sbvfase1" >
+        </activity>
+        <activity
+            android:name=".SBVFase1_1"
+            android:label="@string/title_activity_sbvfase1_1" >
+        </activity>
+        <activity
+            android:name=".SBVFase2"
+            android:label="@string/title_activity_sbvfase2" >
+        </activity>
+        <activity
+            android:name=".SBVFase3"
+            android:label="@string/title_activity_sbvfase3" >
+        </activity>
+        <activity
+            android:name=".SBVFase3_1"
+            android:label="@string/title_activity_sbvfase3_1" >
+        </activity>
+        <activity
+            android:name=".SBVFim"
+            android:label="@string/title_activity_sbvfim" >
+        </activity>
+        <activity
+            android:name=".InfoSBV"
+            android:label="@string/title_activity_info_sbv" >
+        </activity>
+    </application>
+
+</manifest>

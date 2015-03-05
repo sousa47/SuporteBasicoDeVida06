@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SuporteBasicoDeVida06</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inicio_sbv">InicioSBV</string>
+    <string name="title_activity_activity_listview">activity_listview</string>
+    <string name="title_activity_sbvfase1">SBVFase1</string>
+    <string name="title_activity_sbvfase1_1">SBVFase1_1</string>
+    <string name="title_activity_sbvfase2">SBVFase2</string>
+    <string name="title_activity_sbvfase3">SBVFase3</string>
+    <string name="title_activity_sbvfase3_1">SBVFase3_1</string>
+    <string name="title_activity_sbvfim">SBVFim</string>
+    <string name="title_activity_info_sbv">InfoSBV</string>
+
+</resources>
